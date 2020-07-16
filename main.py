@@ -7,6 +7,8 @@ from bs4 import BeautifulSoup
 
 import requests
 
+# comment for test
+
 
 # Абстрактные классы
 class ExcelAbc(ABC):
