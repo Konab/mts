@@ -10,6 +10,7 @@ import requests
 # comment for test
 # new
 #  more
+# branch is `new`
 
 
 # Абстрактные классы
